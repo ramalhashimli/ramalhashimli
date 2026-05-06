@@ -1,11 +1,11 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Ramal+Hashimli;System+%26+Network+Engineer;Infrastructure+Enthusiast" alt="Typing SVG" />
-</h1>h1>
+</h1>
 
 <p align="center">
-  <a href="https://ramalhashimli.com"><img src="https://img.shields.io/badge/Website-ramalhashimli.com-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>a>
+  <a href="https://ramalhashimli.com"><img src="https://img.shields.io/badge/Website-ramalhashimli.com-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
     <a href="https://github.com/ramalhashimli"><img src="https://img.shields.io/badge/GitHub-ramalhashimli-181717?style=for-the-badge&logo=github&logoColor=white" /></a>a>
-</p>p>
+</p>
 
 ---
 
@@ -70,7 +70,7 @@ interests:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ramalhashimli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" width="48%" />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=ramalhashimli&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" width="48%" />
-</p>p>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramalhashimli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" width="40%" />
@@ -78,11 +78,11 @@ interests:
 
 ---
 
-<p align="center">
+<p align="cen
   <img src="https://komarev.com/ghpvc/?username=ramalhashimli&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS" />
 </p>p>
 
 <p align="center">
   <i>Feel free to reach out for collaboration or just a chat!</i>i>
-</p>p>
+</p>
 </i>
