@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%91%8B+Hey%2C+I'm+Ramal+Hashimli;System+%26+Network+Engineer;Infrastructure+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Ramal+Hashimli;System+%26+Network+Engineer;Infrastructure+Enthusiast" alt="Typing SVG" />
 </h1>h1>
 
 <p align="center">
@@ -84,4 +84,5 @@ interests:
 
 <p align="center">
   <i>Feel free to reach out for collaboration or just a chat!</i>i>
-</p>p></i>
+</p>p>
+</i>
